@@ -1,0 +1,5 @@
+Mesh on a 30kmn by 100km box with
+
+BC:
+flux on y=ymin, y=ymax and x=xmax
+dirichlet on x=xmin 
