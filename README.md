@@ -2,7 +2,7 @@
 
 ## Structure
 
-### 'analysis/'
+### `analysis/`
 Top-level analysis
 
 ### `glads/`:
